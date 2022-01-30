@@ -63,8 +63,8 @@ text-align: center;
     bottom: 0%;
     width: 100%;
     /* this is pushed to bottom by body height 100% */
-    position: relative;
-    height: 5vh;
+    position: static;
+    height: 40px;
     float:left;
 }
 /* Footer text colour */
