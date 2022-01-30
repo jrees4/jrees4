@@ -6,3 +6,20 @@ text-align: center;
 .projects{
     margin-top: 8vh;
 }
+.scale{
+    height: 10vh;
+    width: 10vh;
+}
+
+.fl{
+    float: left;
+    margin-right: 20px;
+}
+
+.fr{
+    float: right;
+}
+.project_img{
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+}
